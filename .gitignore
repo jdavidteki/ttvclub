@@ -1,0 +1,9 @@
+node_modules
+.expo
+.eslintcache
+web-build
+.env
+scriptmodels/conversation_history.txt
+ttvclub-default-rtdb-export (1).json
+*.scss
+yarn-error.log
